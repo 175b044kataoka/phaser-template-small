@@ -50,7 +50,8 @@ MyGame.Boot.prototype = {
 
         // 星を読み込み
         this.load.image("star", "/images/star.png");
-
+        this.load.spritesheet('dude','/images/dude.png',32,48);
+        this.load.spritesheet('teki','/images/baddie.png')
         // ファイルの読み込みが完了した時のコールバックを設定
         this.load.onFileComplete.add(this.fileLoaded, this);
     },
