@@ -1,0 +1,5 @@
+http://examples.phaser.io/assets/audio/CatAstroPhi_shmup_normal.wav
+http://examples.phaser.io/assets/audio/SoundEffects/pistol.wav
+http://examples.phaser.io/assets/audio/SoundEffects/p-ping.mp3
+http://examples.phaser.io/assets/audio/SoundEffects/player_death.wav
+http://examples.phaser.io/assets/audio/SoundEffects/wall.wav

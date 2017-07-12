@@ -1,0 +1,30 @@
+{
+  "name": "phaser-template-simple",
+  "version": "0.0.1",
+  "description": "A Simple Template for Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "cd _site && http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am1tanaka/phaser-template-simple.git"
+  },
+  "keywords": [
+    "phaser",
+    "javascript",
+    "html5"
+  ],
+  "author": "YuTanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/am1tanaka/phaser-template-simple/issues"
+  },
+  "homepage": "https://github.com/am1tanaka/phaser-template-simple#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "tern-phaser": "^0.2.0"
+  }
+}

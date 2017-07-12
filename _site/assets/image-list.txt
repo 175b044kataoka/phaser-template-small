@@ -1,0 +1,7 @@
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/baddie.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/diamond.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/dude.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/firstaid.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/platform.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/sky.png
+https://github.com/photonstorm/phaser-ce/raw/master/resources/tutorials/02%20Making%20your%20first%20game/assets/star.png
